@@ -6,3 +6,5 @@ Adding more words to git to practice commit
 This seems like it will be useful
 fixed mistake 4
 hope it works
+A new commit to practice branch
+Another one to practice the branch
